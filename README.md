@@ -50,9 +50,7 @@ git clone https://github.com/akashs-18/calculator.git
 cd calculator
 -----
 
-
 Open index.html in your browser:
-
 start index.html
 -----
 
@@ -69,7 +67,10 @@ start index.html
 ##🙋‍♂️ Author
 ---
 
-Developed by # Akash S
+Developed by 
+           # Akash S
+
+           
 click here :  https://akashs-18.github.io/calculator/
 
 ---
