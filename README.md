@@ -58,9 +58,7 @@ git clone https://github.com/akashs-18/calculator.git
 ---
 
  Add keyboard support
-
  Add light/dark theme toggle
-
  Extend functionality to support scientific calculations
 ---
 
