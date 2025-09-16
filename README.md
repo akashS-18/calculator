@@ -25,18 +25,6 @@ A clean and responsive calculator built with **HTML**, **CSS**, and **JavaScript
 
 ---
 
-## 📁 Project Structure
-
-```plaintext
-calculator/
-│
-├── index.html       # HTML structure
-├── style.css        # Styling (dark theme)
-├── script.js        # JavaScript logic
-├── calc.png         # Screenshot for preview
-└── README.md        # Project documentation
-
-
 🛠️ Technologies Used
 
 HTML5
@@ -73,3 +61,18 @@ start index.html
 
 Developed by Akash S
 click here :  https://akashs-18.github.io/calculator/
+
+
+## 📁 Project Structure
+
+```plaintext
+
+calculator/
+│
+├── index.html       # HTML structure
+├── style.css        # Styling (dark theme)
+├── script.js        # JavaScript logic
+├── calc.png         # Screenshot for preview
+└── README.md        # Project documentation
+
+
