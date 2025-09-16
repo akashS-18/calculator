@@ -54,7 +54,7 @@ git clone https://github.com/akashs-18/calculator.git
 ### start index.html
 -----
 
-##✅ To-Do / Improvements
+## ✅ To-Do / Improvements
 ---
 
  Add keyboard support
@@ -64,11 +64,11 @@ git clone https://github.com/akashs-18/calculator.git
  Extend functionality to support scientific calculations
 ---
 
-##🙋‍♂️ Author
+## 🙋‍♂️ Author
 ---
 
 Developed by 
-           # Akash S
+# Akash S
 
            
 click here :  https://akashs-18.github.io/calculator/
