@@ -38,7 +38,7 @@ JavaScript (ES6+)
 ## 🚀 How to Run Locally
 ----
 
-# Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/akashs-18/calculator.git
 
@@ -69,7 +69,7 @@ start index.html
 ##🙋‍♂️ Author
 ---
 
-Developed by Akash S
+Developed by # Akash S
 click here :  https://akashs-18.github.io/calculator/
 
 ---
