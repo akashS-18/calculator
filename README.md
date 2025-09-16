@@ -47,11 +47,11 @@ git clone https://github.com/akashs-18/calculator.git
 
 ## Navigate to the folder:
 
-cd calculator
+### cd calculator
 -----
 
-Open index.html in your browser:
-start index.html
+### Open index.html in your browser:
+### start index.html
 -----
 
 ##✅ To-Do / Improvements
