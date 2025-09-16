@@ -25,42 +25,54 @@ A clean and responsive calculator built with **HTML**, **CSS**, and **JavaScript
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
+-----
 
 HTML5
 
 CSS3
 
 JavaScript (ES6+)
+------
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
+----
 
-Clone the repository:
+# Clone the repository:
 
 git clone https://github.com/akashs-18/calculator.git
 
+-------
 
-Navigate to the folder:
+
+## Navigate to the folder:
 
 cd calculator
+-----
 
 
 Open index.html in your browser:
 
 start index.html
+-----
 
-✅ To-Do / Improvements
+##✅ To-Do / Improvements
+---
 
  Add keyboard support
 
  Add light/dark theme toggle
 
  Extend functionality to support scientific calculations
+---
 
-🙋‍♂️ Author
+##🙋‍♂️ Author
+---
 
 Developed by Akash S
 click here :  https://akashs-18.github.io/calculator/
+
+---
 
 
 ## 📁 Project Structure
